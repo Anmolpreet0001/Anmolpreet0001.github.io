@@ -13,7 +13,7 @@ body {
 .ic {
 	border:0;
 	float:right;
-	background:#fff;
+	background:#f0eaea;
 	color:#f00;
 	width:50%;
 	line-height:10px;
@@ -51,7 +51,7 @@ a:hover {
 	display:inline-block;
 }
 .link-1:hover {
-	color:#fff;
+	color:#dbd5d5;
 }
 .link-2 {
 	font-size:30px;
@@ -69,7 +69,7 @@ a:hover {
 .text-1 {
 	font-size:18px;
 	line-height:25px;
-	color:#fff;
+	color:#eae9e0;
 	font-style:italic;
 }
 .text-2 {
@@ -256,7 +256,7 @@ ul.menu li a {
 	font-weight:bold;
 	letter-spacing:-2px;
 	display:block;
-	color: white;
+	color: rgb(240, 239, 234);
 }
 ul.menu li:hover a, ul.menu li.current a {
 	color:#eeb6b6;
